@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ebc0a4-017e-4976-862e-bdd1c5df6c60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/onlinestore/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/onlinestore/discoveryserver/DiscoveryServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/onlinestore/discoveryserver/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/controller/InventoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/dto/InventoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/model/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingstore/inventoryservice/service/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/test/java/com/programmingstore/inventoryservice/InventoryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification-service/src/main/java/com/onlinestore/NotificationServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification-service/src/main/java/com/onlinestore/OrderPlaceEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/dto/InventoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/dto/OrderLineItemsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/dto/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/event/OrderPlaceEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/model/OrderLineItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/programmingstore/orderservice/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/test/java/com/programmingstore/orderservice/OrderServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/ProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/dto/ProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/dto/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/programmingstore/productservice/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/test/java/com/programmingstore/productservice/ProductServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/StoreOnline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/inventory-service/src/main/java/com/programmingstore/inventoryservice/controller/InventoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/inventory-service/src/main/java/com/programmingstore/inventoryservice/model/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/inventory-service/src/main/java/com/programmingstore/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/inventory-service/src/main/java/com/programmingstore/inventoryservice/service/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/dto/OrderLineItemsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/dto/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/model/OrderLineItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StoreOnline/order-service/src/main/java/com/programmingstore/orderservice/service/OrderService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/notification-service/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YoTgcEAz4W9rMpF6EGrCBmbCww" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BackEnd/OnlineStore/inventory-service&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BackEnd\OnlineStore\inventory-service" />
+      <recent name="D:\BackEnd\OnlineStore\order-service" />
+      <recent name="D:\BackEnd\OnlineStore\product-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.programmingstore.orderservice.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.api-gateway/Dockerfile">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.onlinestore.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onlinestore.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.onlinestore.NotificationServiceApplication" />
+      <module name="notification-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onlinestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmingstore.orderservice.OrderServiceApplication" />
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programmingstore.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmingstore.productservice.ProductServiceApplication" />
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programmingstore.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api-gateway/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="api-gateway/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.NotificationServiceApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.OrderServiceApplication" />
+      <item itemvalue="Application.ProductServiceApplication" />
+      <item itemvalue="Docker.api-gateway/Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.api-gateway/Dockerfile" />
+        <item itemvalue="Application.NotificationServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.OrderServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ebc0a4-017e-4976-862e-bdd1c5df6c60" name="Changes" comment="" />
+      <created>1701191045838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701191045838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

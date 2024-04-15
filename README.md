@@ -34,4 +34,5 @@
 ✅ <a href="https://www.youtube.com/@SpringIOConference/featured">Spring I/O</a><br>
 ✅ <a href="https://www.youtube.com/@MicroserviceMeetupMunich/featured">Microservice Meetup Munich</a><br>
 ✅ <a href="https://www.youtube.com/@GOTO-">GOTO Conferences</a><br>
+✅ <a href="https://www.youtube.com/@HighPerformanceProgramming">High-Performance Programming</a><br>
 </p>

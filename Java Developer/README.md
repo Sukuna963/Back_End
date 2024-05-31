@@ -2,7 +2,7 @@
 ☕ ***Formação Java Developer***
 ----
 
-📃 [***Fundamentos da Plataforma Java***]((https://glysns.gitbook.io/java-basico))
+📃 [***Fundamentos da Plataforma Java***](https://glysns.gitbook.io/java-basico)
 - Introdução á Plataforma Java
 - Ambiente de Desenvolvimento Java
 - Aprendendo a Sintaxe Java

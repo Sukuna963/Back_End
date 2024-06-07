@@ -19,4 +19,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-<img src="DiagramacaoIphone.svg">
+<img src="./DiagramaçãoDeClassesDoIPhone/DiagramacaoIphone.svg">

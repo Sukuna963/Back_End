@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arvores/Arvores.iml" filepath="$PROJECT_DIR$/Arvores/Arvores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introducao/Atribuicao_e_Referencia/Atribuicao_e_Referencia.iml" filepath="$PROJECT_DIR$/Introducao/Atribuicao_e_Referencia/Atribuicao_e_Referencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estruturas de Dados em Java.iml" filepath="$PROJECT_DIR$/.idea/Estruturas de Dados em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas_e_Filas/Fila/Fila.iml" filepath="$PROJECT_DIR$/Pilhas_e_Filas/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas_e_Filas/Fila_Generics/Fila_Generics.iml" filepath="$PROJECT_DIR$/Pilhas_e_Filas/Fila_Generics/Fila_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas_e_Filas/Fila_NoEmbutido/Fila_NoEmbutido.iml" filepath="$PROJECT_DIR$/Pilhas_e_Filas/Fila_NoEmbutido/Fila_NoEmbutido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introducao/Generics/Generics.iml" filepath="$PROJECT_DIR$/Introducao/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_Circular/Lista_Circular.iml" filepath="$PROJECT_DIR$/Listas/Lista_Circular/Lista_Circular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_Duplamente_Encadeada/Lista_Duplamente_Encadeada.iml" filepath="$PROJECT_DIR$/Listas/Lista_Duplamente_Encadeada/Lista_Duplamente_Encadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_Encadeada/Lista_Encadeada.iml" filepath="$PROJECT_DIR$/Listas/Lista_Encadeada/Lista_Encadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introducao/No_e_EncadeamentoDeNo/No_e_EncadeamentoDeNo.iml" filepath="$PROJECT_DIR$/Introducao/No_e_EncadeamentoDeNo/No_e_EncadeamentoDeNo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas_e_Filas/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/Pilhas_e_Filas/Pilha/Pilha.iml" />
+    </modules>
+  </component>
+</project>

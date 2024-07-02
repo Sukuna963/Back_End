@@ -1,38 +1,43 @@
-<h1> Back_End - Java </h1>
 
-<h2>👨‍💻 Learning</h2>
+👨‍💻 ***Learning***
 
-<p>
-✅ <a href="https://www.dio.me/en">Digita Innovation One</a><br>
-✅ <a href="https://www.scaler.com/topics/course/dsa-beginners-java/?event=signup_event">Scaler</a><br>
-</p>
+----
+***Java BackEnd***
 
----
+[<img src="https://hermes.digitalinnovation.one/tracks/f6608227-3917-416e-91e2-6cddaf116bf8.png" width="50" height="50">](Certificacoes/BCHNRTGX.pdf)
+[<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="50" height="50">](Certificacoes/J1NISNGS.jpg)
 
-<h2>📖 Lecture</h2>
+- ✅ [Formação Java Developer](https://www.dio.me/en)
+- 🟨 [TQI Java Developer](https://www.dio.me/en)
+- ✅ [Docker](https://www.dio.me/en)
+- 🟧 [Refactoring Guru](https://refactoring.guru/)
 
-<p>
-✅ <a href=https://www.infoq.com/java/">infoq</a><br>
-✅ <a href=https://docs.aws.amazon.com/">AWS Documentation</a><br>
-✅ <a href="https://docs.oracle.com/javase/8/docs/api/">Java Documentation</a><br>
-✅ <a href="https://quarkus.io/guides/doc-concept">Quarkus Documentation</a><br>
-✅ <a href="https://quarkus.io/guides/doc-concept">Docker Docs</a><br>
-✅ <a href="https://spring.io/">Spring</a><br>
-</p>
+----
+***Testing***
+- 🟧 [Test Automation University](https://testautomationu.applitools.com/)
+- 🟧 [Cucumber School](https://school.cucumber.io/collections)
 
----
+----
+***API***
+- 🟨 [API Beginner - Postman Academy](https://academy.postman.com/path/api-beginner)
+- 🟧 [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
 
-<h2>🎥 Youtube</h2>
+----
+***Amazon Web Service***
 
-<p>
-✅ <a href="https://www.youtube.com/@markrichards5014">Mark Richards</a><br>  
-✅ <a href="https://www.youtube.com/@MichelliBrito">Michelli Brito</a><br>
-✅ <a href="https://www.youtube.com/@DanVega">Dan Vega</a><br>
-✅ <a href="https://www.youtube.com/@ByteByteGo">ByteByteGo</a><br>
-✅ <a href="https://www.youtube.com/@java">Java</a><br>
-✅ <a href="https://www.youtube.com/@Quarkusio">Quarkus</a><br>
-✅ <a href="https://www.youtube.com/@SpringIOConference/featured">Spring I/O</a><br>
-✅ <a href="https://www.youtube.com/@MicroserviceMeetupMunich/featured">Microservice Meetup Munich</a><br>
-✅ <a href="https://www.youtube.com/@GOTO-">GOTO Conferences</a><br>
-✅ <a href="https://www.youtube.com/@HighPerformanceProgramming">High-Performance Programming</a><br>
-</p>
+[<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="50" height="50">](https://www.credly.com/badges/06e59aea-9fa4-4ac6-b76e-9cd29d583e0a)
+
+- ✅ Cloud Essentials - Knowledge Badge Readiness Path
+- 🟨 Compute - Knowledge Badge Readiness Path
+
+----
+***Python Serveless***
+
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="50" height="50">](Certificacoes/HKC9X5AY.pdf)
+
+- 🟨 [Serverless Land](https://serverlessland.com/)
+- 🟧 [Chalice](https://aws.github.io/chalice/index.html)
+- 🟧 [AWS Serverless Application Model (AWS SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+
+----
+✅ Completed 🟨 In Progress 🟧 Not Started

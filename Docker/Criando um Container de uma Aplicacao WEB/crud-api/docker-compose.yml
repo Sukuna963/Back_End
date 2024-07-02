@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  mysqldb:
+    container_name: user-db
+    image: mysql
+    restart: always
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: users
+      MYSQL_USER: testedb
+      MYSQL_PASSWORD: testedb
+      MYSQL_ROOT_PASSWORD: root
+    networks:
+      - api-net
+
+  api_service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      - spring.datasource.url=jdbc:mysql://mysqldb:3306/users
+    networks:
+      - api-net
+    depends_on:
+      - mysqldb
+
+networks:
+  api-net:
+    driver: bridge

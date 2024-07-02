@@ -13,3 +13,4 @@
 📃 ***Docker File e Docker Compose***
 - Definição e Criação de um Docker File
 - Docker Compose
+- Desafio de Projeto: Criando um Container de uma Aplicação WEB

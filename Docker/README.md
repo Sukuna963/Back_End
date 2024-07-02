@@ -14,3 +14,10 @@
 - Definição e Criação de um Docker File
 - Docker Compose
 - Desafio de Projeto: Criando um Container de uma Aplicação WEB
+
+----
+
+📃 ***Trabalhando com Cluster e Docker Swarm***
+- Criando um Cluster com o Docker Swarm
+- Load Balancer
+- Desafio de Projeto: Definição de um Cluster Swarm Local com o Vagrant

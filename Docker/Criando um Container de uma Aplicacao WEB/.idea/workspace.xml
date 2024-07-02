@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01a1e632-5547-4cb9-8908-78525e2b5fdb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2igeuESAdUfpssDk24c8Qtmvd3H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CrudApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudApiApplicationTests.contextLoads.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.UserServiceTest.createUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;Maven.crud-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.crud-api [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.crud-api [spring-boot:run].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Back_End/Docker/Criando um Container de uma Aplicacao WEB&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CrudApiApplication">
+    <configuration name="CrudApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.crud_api.CrudApiApplication" />
+      <module name="crud-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.crud_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApiApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.crud_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.crud_api" />
+      <option name="MAIN_CLASS_NAME" value="com.example.crud_api.CrudApiApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.crud_api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.crud_api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.crud_api.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.createUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.crud_api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.crud_api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.crud_api.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="createUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.createUser" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.CrudApiApplicationTests.contextLoads" />
+        <item itemvalue="Application.CrudApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a1e632-5547-4cb9-8908-78525e2b5fdb" name="Changes" comment="" />
+      <created>1719916868572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719916868572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Criando_um_Container_de_uma_Aplicacao_WEB$CrudApiApplicationTests_contextLoads.ic" NAME="CrudApiApplicationTests.contextLoads Coverage Results" MODIFIED="1719920904658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.crud_api.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Criando_um_Container_de_uma_Aplicacao_WEB$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1719921111524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.crud_api.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

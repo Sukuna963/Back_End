@@ -23,6 +23,7 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0pm7df5gAmSyFYhuWBsf1oZJth7eqVNfyw&s" width="50" height="40">](https://verify.skilljar.com/c/a7d5ckgvzoj3)
 
 - ✅ [API Beginner - Postman Academy](https://academy.postman.com/path/api-beginner)
+- 🟨 [Admin - POST Academy](https://academy.postman.com/path/admin)
 - 🟧 [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
 
 ----

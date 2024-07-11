@@ -18,6 +18,9 @@
 - 🟧 [Cucumber School](https://school.cucumber.io/collections)
 
 ----
+***Kafka***
+- ✅ [Apache Kafka® 101](https://developer.confluent.io/courses/apache-kafka/events/)
+----
 ***API***
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0pm7df5gAmSyFYhuWBsf1oZJth7eqVNfyw&s" width="50" height="40">](https://verify.skilljar.com/c/a7d5ckgvzoj3)

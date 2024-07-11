@@ -24,6 +24,14 @@
 - Resolvendo Desafios de Código em Java
 - Desafio de Codigo - Desafios iniciais em Java
 - Desafio de Projeto - Construindo uma API Rest de Consulta de Cidades do Brasil do Zero até a Produção
+- Mentoria: Testes em back-end
 
 ----
-...continuando
+
+- Introdução a PostgreSQL
+- Trabalhando com Banco de Dados utilizando JDBC e JPA
+- Desafio de Código - Desafios Java Intermediários
+- Introdução a sistemas de mensageria com java
+- Mentoria: Serviços de mensageria
+
+----

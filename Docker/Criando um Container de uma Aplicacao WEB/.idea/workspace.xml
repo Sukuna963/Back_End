@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a1e632-5547-4cb9-8908-78525e2b5fdb" name="Changes" comment="" />
+    <list default="true" id="01a1e632-5547-4cb9-8908-78525e2b5fdb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TQI Java Developer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../TQI Java Developer/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CrudApiApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CrudApiApplicationTests.contextLoads.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.UserServiceTest.createUser.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;Maven.crud-api [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.crud-api [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.crud-api [spring-boot:run].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Back_End/Docker/Criando um Container de uma Aplicacao WEB&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CrudApiApplication.executor": "Run",
+    "JUnit.CrudApiApplicationTests.contextLoads.executor": "Coverage",
+    "JUnit.UserServiceTest.createUser.executor": "Run",
+    "JUnit.UserServiceTest.executor": "Coverage",
+    "Maven.crud-api [clean].executor": "Run",
+    "Maven.crud-api [install].executor": "Run",
+    "Maven.crud-api [spring-boot:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Back_End/Kafka/kafka-101/Producers",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.CrudApiApplication">
     <configuration name="CrudApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.crud_api.CrudApiApplication" />

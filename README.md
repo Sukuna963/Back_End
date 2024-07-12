@@ -20,22 +20,27 @@
 ----
 ***Kafka***
 - ✅ [Apache Kafka® 101](https://developer.confluent.io/courses/apache-kafka/events/)
+- 🟨 [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started/)
 ----
 ***API***
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0pm7df5gAmSyFYhuWBsf1oZJth7eqVNfyw&s" width="50" height="40">](https://verify.skilljar.com/c/a7d5ckgvzoj3)
+[<img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/course_series/i6rx8yqqksue/promo-image.1675192294.png" width="50" height="40">](https://verify.skilljar.com/c/fqncu4kjzdov)
 
 - ✅ [API Beginner - Postman Academy](https://academy.postman.com/path/api-beginner)
-- 🟨 [Admin - POST Academy](https://academy.postman.com/path/admin)
+- ✅ [Admin - Postman Academy](https://academy.postman.com/path/admin)
+- 🟨 [Engineer - Postman Academy](https://academy.postman.com/path/engineer-learning-path)
 - 🟧 [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
 
 ----
 ***Amazon Web Service***
 
 [<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="50" height="50">](https://www.credly.com/badges/06e59aea-9fa4-4ac6-b76e-9cd29d583e0a)
+[<img src="https://images.credly.com/size/340x340/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png" width="50" height="50">](https://www.credly.com/badges/179b0030-534c-411f-bbba-9c1710431927)
 
 - ✅ Cloud Essentials - Knowledge Badge Readiness Path
-- 🟨 Compute - Knowledge Badge Readiness Path
+- ✅ Compute - Knowledge Badge Readiness Path
+- 🟨 Networking Core - Knowledge Badge Readiness Path
 
 ----
 ***Python Serveless***

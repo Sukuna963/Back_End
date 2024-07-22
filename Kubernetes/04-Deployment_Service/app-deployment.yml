@@ -1,0 +1,25 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: myapp-php
+spec:
+  containers:
+    - name: myapp-php
+      image: kuuhaku12/app-php:latest
+      ports:
+        - containerPort: 80
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: myapp-service
+spec:
+  type: NodePort
+  selector:
+    app: myapp-php
+  ports:
+    - port: 80
+      targetPort: 80
+      nodePort: 31000

@@ -14,3 +14,8 @@
 - Criando Imagens Personalizadas com o Docker
 
 ----
+
+📃 ***Expondo e Conectando Aplicações Kubernets***
+- Serviços de Acesso para Kubenetes Pods
+- Persistência de Dados em Clusters Kubernetes
+- Desafio de Projeto - Criando um Deploy de uma Aplicação

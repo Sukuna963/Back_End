@@ -15,7 +15,14 @@
 
 ----
 
-📃 ***Expondo e Conectando Aplicações Kubernets***
+📃 ***Expondo e Conectando Aplicações Kubernetes***
 - Serviços de Acesso para Kubenetes Pods
 - Persistência de Dados em Clusters Kubernetes
 - Desafio de Projeto - Criando um Deploy de uma Aplicação
+
+----
+
+📃 ***Automatizando Deployments com Kubernetes***
+- Deployment e Roolback em Clusters Kubernetes
+- CI/CD Utilizando Kubernetes
+- Desafio de Projeto - Criando um Pipeline de Deploy com GitLab e Kubernetes

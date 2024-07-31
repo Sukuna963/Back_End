@@ -5,11 +5,9 @@
 ***Java BackEnd***
 
 [<img src="https://hermes.digitalinnovation.one/tracks/f6608227-3917-416e-91e2-6cddaf116bf8.png" width="50" height="50">](Certificacoes/BCHNRTGX.pdf)
-[<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="50" height="50">](Certificacoes/J1NISNGS.jpg)
 
 - ✅ [Formação Java Developer](https://www.dio.me/en)
 - 🟨 [TQI Java Developer](https://www.dio.me/en)
-- ✅ [Docker](https://www.dio.me/en)
 - 🟧 [Refactoring Guru](https://refactoring.guru/)
 
 ----
@@ -31,6 +29,15 @@
 - ✅ [Admin - Postman Academy](https://academy.postman.com/path/admin)
 - 🟨 [Engineer - Postman Academy](https://academy.postman.com/path/engineer-learning-path)
 - 🟧 [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
+
+----
+***Infra and CI/CD***
+
+[<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="50" height="50">](Certificacoes/J1NISNGS.jpg)
+[<img src="https://hermes.dio.me/tracks/5d7e4196-f5d6-4463-94dc-ac215ff44f61.png" width="50" height="50">](Certificacoes/JSIQO8GZ.pdf)
+
+- ✅ [Docker](https://www.dio.me/en)
+- ✅ [Kubernetes](https://www.dio.me/en)
 
 ----
 ***Amazon Web Service***

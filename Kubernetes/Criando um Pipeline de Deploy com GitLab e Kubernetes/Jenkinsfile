@@ -1,0 +1,39 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout GitHub repo') {
+            steps {
+                checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/Sukuna963/Back_End/tree/main/Kubernetes/Criando%20um%20Pipeline%20de%20Deploy%20com%20GitLab%20e%20Kubernetes']])
+            }
+        }
+        
+        stage('Build and Tag Docker Image') {
+            steps {
+                script {
+                    sh 'docker build . -t hello'
+                    sh 'docker tag hello kuuhaku12/hello'
+                }
+            }
+        }
+        
+        stage('Push the Docker Image to DockerHUb') {
+            steps {
+                script {
+                    withCredentials([string(credentialsId: 'docker_hub', variable: 'docker_hub')]) {
+                    sh 'docker login -u kuuhaku12 -p ${docker_hub}'
+}
+                    sh 'docker push kuuhaku12/hello'
+                }
+            }
+        }
+        
+        stage('Deploy deployment and service file') {
+            steps {
+                script {
+                    kubernetesDeploy configs: 'deployment.yaml', kubeconfigId: 'kubernetes_config'
+                }
+            }
+        }
+    }
+}

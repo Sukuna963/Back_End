@@ -35,3 +35,10 @@
 - Mentoria: Serviços de mensageria
 
 ----
+
+- Introdução ao framework Spring Boot
+- Simplificando Projetos Java Com o Spring Boot
+- Criando seu Gerenciador de Super Heróis da Marvel e da DC em uma API Reativa com Spring Boot
+
+---
+

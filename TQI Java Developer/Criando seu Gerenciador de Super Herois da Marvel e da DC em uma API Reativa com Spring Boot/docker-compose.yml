@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  localstack:
+    container_name: localstack-dynamodb
+    image: localstack/localstack:latest
+    ports:
+      - "127.0.0.1:4566:4566"
+    environment:
+      - DEBUG=${DEBUG:-0}
+    volumes:
+      - ./heroTable.sh:/etc/localstack/init/ready.d/script.sh
+
+  springboot-app:
+    container_name: hero_api
+    image: springboot-app
+    restart: on-failure
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      AWS_REGION: us-east-1
+      AWS_ACCESS: admin
+      AWS_SECRET_KEY: admin
+      HOST: localstack
+      PORT: 4566
+    depends_on:
+      localstack:
+        condition: service_healthy

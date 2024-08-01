@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Criando seu Gerenciador de Super Herois da Marvel e da DC em uma API Reativa com Spring Boot.iml" filepath="$PROJECT_DIR$/.idea/Criando seu Gerenciador de Super Herois da Marvel e da DC em uma API Reativa com Spring Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/herosAPI.iml" filepath="$PROJECT_DIR$/.idea/herosAPI.iml" />
     </modules>
   </component>
 </project>

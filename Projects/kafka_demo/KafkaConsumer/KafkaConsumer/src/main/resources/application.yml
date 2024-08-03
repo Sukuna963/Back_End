@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: consumer-app
+  kafka:
+    auto-offset-reset: latest
+    bootstrap-servers: http://${HOST:localhost}:${PORT:9092}
+    group-id: consumer-group
+    topic:
+      name: test-topic
+server:
+  port: 8081

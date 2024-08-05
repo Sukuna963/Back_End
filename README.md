@@ -18,7 +18,8 @@
 ----
 ***Kafka***
 - ✅ [Apache Kafka® 101](https://developer.confluent.io/courses/apache-kafka/events/)
-- 🟨 [Kafka Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started/)
+- ✅ [Designing Event-Driven Microservices](https://developer.confluent.io/courses/microservices/from-monoliths-to-microservices/)
+
 ----
 ***API***
 

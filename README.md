@@ -5,6 +5,7 @@
 ***Java BackEnd***
 
 [<img src="https://hermes.digitalinnovation.one/tracks/f6608227-3917-416e-91e2-6cddaf116bf8.png" width="50" height="50">](Certificacoes/BCHNRTGX.pdf)
+[<img src="https://hermes.dio.me/tracks/11997444-b004-4b62-9cf4-8c5f91e019c2.png" width="50" height="50">](Certificacoes/NGRTEGRI.pdf)
 
 - ✅ [Formação Java Developer](https://www.dio.me/en)
 - 🟨 [TQI Java Developer](https://www.dio.me/en)

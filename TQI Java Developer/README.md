@@ -42,3 +42,14 @@
 
 ---
 
+- Introdução Prática a Computação em Nuvem Usando AWS
+- Microserviços em Spring Cloud com java
+- Criando uma Aplicação Serveless na AWS
+- Introdução á Mensageria na Nauvem com Kafka e Python
+- Mentoria: Kafka
+
+---
+
+- Introdução a orquestração de contêineres com Docker
+- Mentoria: Docker
+

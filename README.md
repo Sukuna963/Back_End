@@ -8,7 +8,7 @@
 [<img src="https://hermes.dio.me/tracks/11997444-b004-4b62-9cf4-8c5f91e019c2.png" width="50" height="50">](Certificacoes/NGRTEGRI.pdf)
 
 - ✅ [Formação Java Developer](https://www.dio.me/en)
-- 🟨 [TQI Java Developer](https://www.dio.me/en)
+- ✅ [TQI Java Developer](https://www.dio.me/en)
 - 🟧 [Refactoring Guru](https://refactoring.guru/)
 
 ----
@@ -33,13 +33,14 @@
 - 🟧 [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
 
 ----
-***Infra and CI/CD***
+***Infra***
 
 [<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" width="50" height="50">](Certificacoes/J1NISNGS.jpg)
 [<img src="https://hermes.dio.me/tracks/5d7e4196-f5d6-4463-94dc-ac215ff44f61.png" width="50" height="50">](Certificacoes/JSIQO8GZ.pdf)
 
 - ✅ [Docker](https://www.dio.me/en)
 - ✅ [Kubernetes](https://www.dio.me/en)
+- ✅ [docker fundamentos de seguranca](https://dadario.com.br/courses/docker-fundamentos-de-seguranca/)
 
 ----
 ***Amazon Web Service***
